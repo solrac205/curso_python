@@ -1,0 +1,8 @@
+Setup.py
+setup.py
+CalculosMatematicosBasicos.egg-info/PKG-INFO
+CalculosMatematicosBasicos.egg-info/SOURCES.txt
+CalculosMatematicosBasicos.egg-info/dependency_links.txt
+CalculosMatematicosBasicos.egg-info/top_level.txt
+Paquetes/MDFncMatematicas.py
+Paquetes/__init__.py
